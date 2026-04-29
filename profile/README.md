@@ -1,2 +1,2 @@
 # novision
-creating advanced and optimized externals
+important repos are private rn
