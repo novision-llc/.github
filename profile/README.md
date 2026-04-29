@@ -1,2 +1,2 @@
 # novision
-under construction
+creating advanced and optimized externals
